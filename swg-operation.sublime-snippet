@@ -7,7 +7,7 @@
 *	operationId = "${4:createUser}",
 *	summary = "${5:User list}",
 *	description = "${6:description}",
-*	products = {"application/json"},
+*	produces = {"application/json"},
 *	consumes = {"application/json"},
 *	swg-parameter${7},
 *	swg-repsonse${8}

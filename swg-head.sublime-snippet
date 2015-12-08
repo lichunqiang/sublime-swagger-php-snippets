@@ -2,11 +2,11 @@
 	<content><![CDATA[
 @SWG\Head(
 *	path = "${1:/users}",
-*	tags = "${2:users}",
+*	tags = "{"${2:users}"}",
 *	operationId = "${3:createUser}",
 *	summary = "${4:User list}",
 *	description = "${5:description}",
-*	products = {"application/json"},
+*	produces = {"application/json"},
 *	consumes = {"application/json"},
 *	swg-parameter${6},
 *	swg-repsonse${7}

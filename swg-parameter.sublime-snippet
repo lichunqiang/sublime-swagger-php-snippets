@@ -7,7 +7,7 @@
 *		required = ${4:false},
 *		type = "${5:string}",
 *		swg-schema
-*     )
+*    )
 ]]></content>
 	<tabTrigger>swg-param</tabTrigger>
 	<scope>source.php</scope>
