@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+@SWG\Post(
+*	path = "${1:/users}",
+*	tags = "${2:users}",
+*	operationId = "${3:createUser}",
+*	summary = "${4:User list}",
+*	description = "${5:description}",
+*	products = {"application/json"},
+*	consumes = {"application/json"},
+*	swg-parameter${6},
+*	swg-repsonse${7}
+* )
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>swg-post</tabTrigger>
+	<scope>source.php</scope>
+	<description>@SWG\Post</description>
+</snippet>

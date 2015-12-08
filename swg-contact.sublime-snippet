@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@SWG\Contact(name = "${1:person/org name}", url = "${2:url}", email = "${3:email}")
+]]></content>
+	<tabTrigger>swg-contact</tabTrigger>
+	<scope>source.php</scope>
+	<description>@SWG\Contact</description>
+</snippet>

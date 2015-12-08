@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+@SWG\Info(
+*		version = "${1:1.0.0}",
+*		title = "${2:title}",
+*		description = "${3:description}",
+*		termsOfService = "${4:http://yoursite/terms}",
+*		contact = swg:contact,
+*		license = swg:license
+*    )
+]]></content>
+	<tabTrigger>swg-info</tabTrigger>
+	<scope>source.php</scope>
+	<description>@SWG\Info</description>
+</snippet>

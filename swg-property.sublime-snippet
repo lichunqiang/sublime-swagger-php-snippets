@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@SWG\Property(format = "${1:int64}")
+]]></content>
+	<tabTrigger>swg-property</tabTrigger>
+	<scope>source.php</scope>
+	<description>@SWG\Property</description>
+</snippet>

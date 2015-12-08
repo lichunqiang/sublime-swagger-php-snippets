@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+@SWG\Tag(
+*
+)
+]]></content>
+	<tabTrigger>swg-tag</tabTrigger>
+	<scope>source.php</scope>
+	<description>@SWG\Tag</description>
+</snippet>

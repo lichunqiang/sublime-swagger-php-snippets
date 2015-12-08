@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@SWG\Header(${5}header = "${1:X-Rate-Limit}", ${5}type = "${2:string}", ${5}format = "${3:date-time}", ${5}description = "${4:description}")
+]]></content>
+	<tabTrigger>swg-header</tabTrigger>
+	<scope>source.php</scope>
+	<description>@SWG\Header</description>
+</snippet>

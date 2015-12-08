@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@SWG\Response(${3}response = ${1:200}, ${3}description = "${2: success}")
+]]></content>
+	<tabTrigger>swg-response</tabTrigger>
+	<scope>source.php</scope>
+	<description>@SWG\Response</description>
+</snippet>

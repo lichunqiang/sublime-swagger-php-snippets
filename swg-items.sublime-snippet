@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@SWG\Items(ref="${1:#/definitions/Pet}")
+]]></content>
+	<tabTrigger>swg-items</tabTrigger>
+	<scope>source.php</scope>
+	<description>@SWG\Items</description>
+</snippet>

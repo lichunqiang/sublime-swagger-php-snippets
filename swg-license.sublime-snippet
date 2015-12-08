@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@SWG\License(name = "${1:MIT}", url = "${2:url}")
+]]></content>
+	<tabTrigger>swg-license</tabTrigger>
+	<scope>source.php</scope>
+	<description>@SWG\License</description>
+</snippet>

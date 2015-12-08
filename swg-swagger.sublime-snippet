@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+@SWG\Swagger(
+*	schemes = "${1:http}",
+*	host = "${2:api.example.com}",
+*	basePath = "${3:/v1}",
+*	swg:info,
+*	swg:externaldoc
+* )
+]]></content>
+	<tabTrigger>swg</tabTrigger>
+	<scope>source.php</scope>
+	<description>@SWG\Swagger</description>
+</snippet>

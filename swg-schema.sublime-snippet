@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+@SWG\Schema(
+*			ref = "${1:#/definitions/User}"
+*	     )
+]]></content>
+	<tabTrigger>swg-schema</tabTrigger>
+	<scope>source.php</scope>
+	<description>@SWG\Schema</description>
+</snippet>
