@@ -2,13 +2,13 @@
 	<content><![CDATA[
 @SWG\Patch(
 *	path = "${1:/users}",
-*	tags = "{"${2:users}"}",
+*	tags = {"${2:users}"},
 *	operationId = "${3:createUser}",
 *	summary = "${4:User list}",
 *	description = "${5:description}",
 *	produces = {"application/json"},
 *	consumes = {"application/json"},
-*	swg-parameter${6},
+*	swg-param${6},
 *	swg-repsonse${7}
 * )
 ]]></content>

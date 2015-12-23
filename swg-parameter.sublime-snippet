@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@SWG\Parameter(
+@SWG\parameter(
 *		in = "${1:body}",
 *		name = "${2:username}",
 *		description = "${3:user's name}",
@@ -11,5 +11,5 @@
 ]]></content>
 	<tabTrigger>swg-param</tabTrigger>
 	<scope>source.php</scope>
-	<description>@SWG\Parameter</description>
+	<description>@SWG\param</description>
 </snippet>

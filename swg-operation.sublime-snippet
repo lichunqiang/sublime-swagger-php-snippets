@@ -9,7 +9,7 @@
 *	description = "${6:description}",
 *	produces = {"application/json"},
 *	consumes = {"application/json"},
-*	swg-parameter${7},
+*	swg-param${7},
 *	swg-repsonse${8}
 * )
 ]]></content>
