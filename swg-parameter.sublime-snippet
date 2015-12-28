@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@SWG\parameter(
+@SWG\Parameter(
 *		in = "${1:body}",
 *		name = "${2:username}",
 *		description = "${3:user's name}",
