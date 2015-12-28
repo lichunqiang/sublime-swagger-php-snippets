@@ -9,7 +9,7 @@
 *	produces = {"application/json"},
 *	consumes = {"application/json"},
 *	swg-param${6},
-*	swg-repsonse${7}
+*	swg-response${7}
 * )
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

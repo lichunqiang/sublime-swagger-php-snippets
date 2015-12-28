@@ -10,7 +10,7 @@
 *	produces = {"application/json"},
 *	consumes = {"application/json"},
 *	swg-param${7},
-*	swg-repsonse${8}
+*	swg-response${8}
 * )
 ]]></content>
 	<tabTrigger>swg-operation</tabTrigger>

@@ -1,8 +1,9 @@
 <snippet>
 	<content><![CDATA[
 @SWG\Tag(
-*
-)
+*	name="${1:user}",
+*	description="${2:description}"
+* )
 ]]></content>
 	<tabTrigger>swg-tag</tabTrigger>
 	<scope>source.php</scope>
